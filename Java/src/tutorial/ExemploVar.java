@@ -31,11 +31,11 @@ However, you can add the final keyword if you don't want others (or yourself) to
 
         //Examples
 
-        int myNum = 5;
-        float myFloatNum = 5.99f;
-        char myLetter = 'T';
-        boolean myBool = true;
-        String myText = "Hello";
+        int myNum = 5; // Integer (whole number)
+        float myFloatNum = 5.99f; // Floating point number
+        char myLetter = 'T'; // Character
+        boolean myBool = true; // Boolean
+        String myText = "Hello"; // String
 
         int x = 50;
         int y = 20;
