@@ -1,7 +1,9 @@
 package examples;
 
-final class Vehicle {
+class Vehicle {
     protected String brand = "Ford";
+    protected String modelName;
+
     public void honk() {
         System.out.println("Tuut, tuut!");
     }
@@ -10,7 +12,7 @@ final class Vehicle {
 class Main extends Vehicle {
     private String modelName = "Mustang";
     public static void main(String[] args) {
-        Main myFastCar = new Main();
+        Vehicle myFastCar = new Vehicle();
         myFastCar.honk();
         System.out.println(myFastCar.brand + " " + myFastCar.modelName);
     }

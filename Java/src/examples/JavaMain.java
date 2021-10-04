@@ -2,7 +2,7 @@ package examples;
 
 //An example to demonstrate the differences between static and public methods:
 
-public class Main {
+public class JavaMain {
 
     // Static method
     static void myStaticMethod() {
@@ -19,7 +19,7 @@ public class Main {
         myStaticMethod(); // Call the static method
         // myPublicMethod(); This would compile an error
 
-        Main myObj = new Main(); // Create an object of Main
+        JavaMain myObj = new JavaMain(); // Create an object of Main
         myObj.myPublicMethod(); // Call the public method on the object
     }
 }
