@@ -139,7 +139,7 @@ public class ControleFluxo {
 
     private static void switchSemana(){
 
-        String dia = "mgmgjmg";
+        String dia = "Terça";
         switch (dia){
             case  "Segunda":
                 System.out.println(2);
