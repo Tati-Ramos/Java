@@ -3,6 +3,7 @@
 * [Examples](https://github.com/Tati-Ramos/Java/tree/main/Java/src/examples)
 * [File Handling](https://github.com/Tati-Ramos/Java/tree/main/Java/src/filehandling)
 * [How To](https://github.com/Tati-Ramos/Java/tree/main/Java/src/howto)
+* [Methods](https://github.com/Tati-Ramos/Java/tree/main/Java/src/methods)
 
 _Fonte: 
 Digital Innovation One e_
