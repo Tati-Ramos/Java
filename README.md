@@ -2,6 +2,7 @@
 * [Classes](https://github.com/Tati-Ramos/Java/tree/main/Java/src/classes)
 * [Examples](https://github.com/Tati-Ramos/Java/tree/main/Java/src/examples)
 * [File Handling](https://github.com/Tati-Ramos/Java/tree/main/Java/src/filehandling)
+* [How To](https://github.com/Tati-Ramos/Java/tree/main/Java/src/howto)
 
 _Fonte: 
 Digital Innovation One e_
